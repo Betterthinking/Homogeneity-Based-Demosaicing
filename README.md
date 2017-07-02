@@ -1,5 +1,4 @@
-	In this project we implement the algorithm put forward by hirakawa et. al in this paper: "Adaptive homogeneity-directed demosaicing
-algorithm" published on IEEE Transactions on Image Processing 2005. For more details, please visit: http://photo-lovers.org/pdf/hirakawa05mndemosaictip.pdf.
+In this project we implement the algorithm put forward by hirakawa et. al in this paper: "Adaptive homogeneity-directed demosaicingalgorithm" published on IEEE Transactions on Image Processing 2005. For more details, please visit: http://photo-lovers.org/pdf/hirakawa05mndemosaictip.pdf.
 
 The code is devided into five parts:
 
