@@ -8,7 +8,7 @@ The code is devided into five parts:
 
 3. cfa_reconstruct.m offers some basic interpolation methods for comparison with our implementation.
 
-4.homogeneity.m is the main function of our implementation.
+4. homogeneity.m is the main function of our implementation.
 
 5. we also provide some test code in the "test code" folder
 
